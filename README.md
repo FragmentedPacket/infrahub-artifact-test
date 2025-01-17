@@ -1,0 +1,1 @@
+# infrahub-artifact-test
