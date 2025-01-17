@@ -18,3 +18,5 @@ artifact_definitions:
     targets: "AllDevices"
     transformation: "interface_transform"
 
+schemas:
+  - "schemas/main.yml"
